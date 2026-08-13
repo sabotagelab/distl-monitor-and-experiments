@@ -1,0 +1,11 @@
+[package]
+name = "distl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+itertools = "0.14.0"
+# mtl_formula = { git = "https://github.com/kollch/mtl_formula.git" }
+
+[profile.release]
+debug = true
