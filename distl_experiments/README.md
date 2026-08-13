@@ -8,8 +8,8 @@ Experiments for this paper were run on a machine with a AMD Ryzen 7 PRO 7840U CP
 
 We require the following directory layout:
 
-some-parent-directory/
-|- distl/
+some-parent-directory/ \
+|- distl/ \
 |- distl_experiments/
 
 `some-parent-directory/` can be named whatever you prefer, but installation requires `distl` and `distl_experiments` to be named as such.
